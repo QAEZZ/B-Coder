@@ -9,10 +9,10 @@ Simple base encoder/decoder.
 
 
 ## How to use:
-**Dependencies:**
+**Dependencies:** \
 -- colorama
 
 ``pip3 install -r requirements.txt``
 
-Just run ``main.py`` and choose `Encode` or `Decode`.
+Just run ``main.py`` and choose `Encode` or `Decode`. \
 Pretty self-explanatory...
