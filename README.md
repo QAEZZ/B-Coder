@@ -9,7 +9,7 @@ Simple base encoder/decoder.
 
 
 ## How to use:
-**Dependencies:** \
+**Dependencies:** 
 - colorama
 
 ``pip3 install -r requirements.txt``
